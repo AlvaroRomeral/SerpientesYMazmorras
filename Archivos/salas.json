@@ -1,0 +1,12 @@
+{
+  "1": {
+    "titulo": "Entrada",
+    "descripcion": "Te encuentras en la entrada de la mazmorra, por las pintas debe de tener mas de 1024 años, y notas como la humedad inunda la sala",
+    "image": "entrada"
+  },
+  "2": {
+    "titulo": "Sala de Armas",
+    "descripcion": "descripcion",
+    "image": "armero"
+  }
+}

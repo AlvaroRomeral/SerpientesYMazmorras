@@ -1,0 +1,17 @@
+{
+  "1": {
+    "nombre": "Piton",
+    "vida": 100,
+    "tipo": "magia"
+  },
+  "2": {
+    "nombre": "Vibora",
+    "vida": 50,
+    "tipo": "lucha"
+  },
+  "3": {
+    "nombre": "Cobra",
+    "vida": 75,
+    "tipo": "invisibilidad"
+  }
+}

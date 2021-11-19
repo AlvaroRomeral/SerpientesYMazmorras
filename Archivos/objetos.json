@@ -1,0 +1,32 @@
+{
+  "1": {
+    "nombre": "Espada",
+    "tipo": "lucha",
+    "cantidad": 10
+  },
+  "2": {
+    "nombre": "Varita",
+    "tipo": "magia",
+    "cantidad": 20
+  },
+  "3": {
+    "nombre": "Capa de Invisibilidad",
+    "tipo": "magia",
+    "cantidad": 30
+  },
+  "4": {
+    "nombre": "Martillo",
+    "tipo": "lucha",
+    "cantidad": 20
+  },
+  "5": {
+    "nombre": "Libro de Pocimas",
+    "tipo": "magia",
+    "cantidad": 15
+  },
+  "6": {
+    "nombre": "Canicas",
+    "tipo": "astucia",
+    "cantidad": 12
+  }
+}
